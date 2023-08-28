@@ -1,0 +1,16 @@
+Trabajo Práctico
+
+ALGORITMO Prueba
+    (*Este es un algoritmo de prueba que suma dos números*)
+
+    REAL num1, num2, resultado
+
+    ESCRIBIR ("Ingrese un número")
+    LEER (num1)
+    ESCRIBIR ("Ingrese otro número")
+    LEER (num2)
+
+    resultado <-- num1 + num2
+
+    ESCRIBIR ("El resultado de la suma es de " + resultado)
+FIN ALGORITMO Prueba
